@@ -1,0 +1,5 @@
+CRITICAL:root:Critical
+ERROR:root:Error
+INFO:root:This is info
+WARNING:root:Warning
+INFO:root:Division in progress
